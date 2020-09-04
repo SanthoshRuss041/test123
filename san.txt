@@ -1,2 +1,0 @@
-print("hello world");
-printf("This is my own project");
